@@ -21,4 +21,4 @@ const defaultAnswers = [
   { msg: "Very doubtful.", color: "red" },
 ]
 
-export {defaultAnswers};
+export { defaultAnswers };

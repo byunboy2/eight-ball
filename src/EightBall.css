@@ -4,11 +4,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius:  50%;
+  border-radius: 50%;
 }
 
 .EightBall-answer {
   color: white;
-  text-align: center;
   font-size: 24px;
 }

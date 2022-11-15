@@ -22,8 +22,7 @@ function EightBall( {answers = defaultAnswers} ) {
   });
 
   function handleClick(evt) {
-    const shuffledAnswers = _.shuffle(answers);
-    setAnswer(shuffledAnswers[0]);
+    setAnswer(_.sample(answers));
   }
 
   return (

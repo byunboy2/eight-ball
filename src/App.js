@@ -1,6 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 import EightBall from './EightBall.js'
+
+/** Renders an EightBall component
+ *
+ *  App -> EightBall
+ */
 
 function App() {
   return <EightBall />;
