@@ -1,5 +1,5 @@
 import './App.css';
-import EightBall from './EightBall.js'
+import EightBall from './EightBall'
 
 /** Renders an EightBall component
  *
